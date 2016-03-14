@@ -21,5 +21,5 @@ Optional: Display a nice default placeholder graphic for each image during loadi
 
 Here's a walkthrough of implemented user stories
 
-<img src='http://i.imgur.com/mhlkAFP.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/SJfCapG.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
